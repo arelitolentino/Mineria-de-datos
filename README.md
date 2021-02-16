@@ -1,1 +1,3 @@
-Fase 1
+# Mineria de datos
+## Fase 1
+Mapa Mental 1 []
