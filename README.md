@@ -8,3 +8,4 @@
 - [Ejercicio Base de datos](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Ej1_BasesDatos_Equipo_2.pdf)
 
 - [Ejercicios Basicos de python](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Ej_Python_1726724.ipynb)
+- [Práctica limpieza de datos](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo2.ipynb)
