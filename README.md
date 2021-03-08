@@ -9,3 +9,4 @@
 
 - [Ejercicios Basicos de python](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Ej_Python_1726724.ipynb)
 - [Práctica limpieza de datos](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo2.ipynb)
+- [Primer Avance del PIA](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Avance1_PIA_Equipo2.ipynb)
