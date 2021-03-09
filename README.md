@@ -13,3 +13,4 @@
 ## Fase 2
 - [Presentación de técnicas por equipo](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
 - [Mini examen Patrones Secuenciales](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Patrones-secuenciales_Equipo2.pdf)
+- [Codígo del Ejercicio Patrones Secuenciales](https://github.com/arlettemartinezmartinez/MineriaDeDatos/blob/main/GSP.py)
