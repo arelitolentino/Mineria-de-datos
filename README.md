@@ -12,3 +12,4 @@
 - [Primer Avance del PIA](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Avance1_PIA_Equipo2.ipynb)
 ## Fase 2
 - [Presentación de técnicas por equipo](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
+- [Mini examen Patrones Secuenciales]()
