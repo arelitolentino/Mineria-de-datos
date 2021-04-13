@@ -15,3 +15,4 @@
 - [Mini examen Patrones Secuenciales](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Patrones-secuenciales_Equipo2.pdf)
 - [Codígo del Ejercicio Patrones Secuenciales](https://github.com/arlettemartinezmartinez/MineriaDeDatos/blob/main/GSP.py)
 - [Mapa Mental 2](https://github.com/arelitolentino/Mineria-de-datos/blob/main/MapaMental_2_1726724.pdf)
+- [Práctica de visualización](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Visualizaci%C3%B3n_Equipo2.ipynb)
