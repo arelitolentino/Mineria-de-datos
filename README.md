@@ -18,3 +18,4 @@
 - [Práctica de visualización](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Visualizaci%C3%B3n_Equipo2.ipynb)
 - [Segunda entrega del PIA](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2.ipynb)
 - [Segunda entrega del PIA (Version 2)](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version2.ipynb)
+- [Segunda entrega del PIA (Version 3)](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version3.ipynb)
